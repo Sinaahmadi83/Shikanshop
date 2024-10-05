@@ -1,0 +1,32 @@
+.fab{
+    font-size: 25px;
+    padding: 0 5px;
+}
+.menu{
+    border: solid gray 0.5px;
+    display: inline-block;
+    width: 110px;
+    height: 60px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    padding-right: 50px;
+}
+.title{
+    font-size: 25px;
+    color: black;
+    padding-top:70px ;
+    padding-right: 70px;
+    padding:50px ;
+    background-color: lightgray;
+} 
+.productcss{
+    background-color: lightgray;
+    
+}
+h1{
+    padding-right: 40%;
+    padding-top: 30px;
+}

@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    padding: 10px 30px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid gray 1px;
+    background-color: white;
+}
+
+li:hover{
+    color:rgb(238, 185, 121);
+}
+a{
+    text-decoration: none;
+    padding: 0px 15px;
+    margin: 5px;
+    cursor: pointer;
+    color: gray;
+}
+li{
+    padding: 15px 0;
+}

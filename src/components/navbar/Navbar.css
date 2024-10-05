@@ -1,0 +1,71 @@
+.con{
+    display: flex;
+    position: relative;
+    border: solid gray 0.5px;
+    height: 65px;
+}
+.us{
+    position: absolute;
+    right: 90%;
+    padding: 10px;
+    border-right: solid gray 1px;
+    color: gray;
+    top: 8px;
+    cursor: pointer;
+}
+.form{
+    position: absolute;
+    right: 76%;
+    padding: 10px;
+    font-size: 14px;
+    top: 8px;
+    cursor: pointer;
+}
+.p1{
+    position: absolute;
+    font-size: 14px;
+    border-left: solid gray 1px;
+    padding: 10px;
+    top: 8px;
+    color: gray;
+    cursor: pointer;
+}
+.p2{
+    position: absolute;
+    right: 13%;
+    font-size: 14px;
+    border-left: solid gray 1px;
+    padding: 10px;
+    top: 8px;
+    color: gray;
+    cursor: pointer;
+}
+.p33{
+    position: absolute;
+    right: 21%;
+    font-size: 14px;
+    border-left: solid gray 1px;
+    padding: 10px;
+    top: 8px;
+    color: gray;
+    cursor: pointer;
+}
+h5{
+    position: absolute;
+    right: 50%;
+    font-size: 30px;
+    top: 8px;
+    color: gray;
+}
+.us:hover{
+    color: rgb(238, 185, 121)
+}
+.p1:hover{
+    color: rgb(238, 185, 121)
+}
+.p2:hover{
+    color: rgb(238, 185, 121)
+}
+.p33:hover{
+    color: rgb(238, 185, 121)
+}

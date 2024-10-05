@@ -1,0 +1,61 @@
+.contain1{
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    padding-right: 55px;
+} 
+.fat{
+        height: 350px;
+        width: 300px;
+        border: solid gray 0.5px;
+        text-align: center;
+        border-radius: 20px;
+        background-color:white;
+        cursor: pointer;
+        margin: 50px;
+        position: relative;
+ }
+ img{
+    height: 50%;
+    width: 100%;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+    
+ }
+ .h5{
+    font-size: 20px;
+    margin: 10px;
+    position: absolute;
+    top: 55%;
+    right: 32%;
+}
+.p5{
+    font-size: 20px;
+    display: block;
+    margin: 10px;
+    position: absolute;
+    top: 65%;
+    right: 30%;
+    border: none;
+    color: black;
+}
+.p5:hover{
+    color: black;
+}
+.btn2{
+    position: absolute;
+    top: 80%;
+    right: 25%;
+    width: 150px;
+    height: 30px;
+    background:  rgb(238, 185, 121);
+    border: solid gray 0.5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.fat:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
